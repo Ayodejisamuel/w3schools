@@ -10,8 +10,8 @@ body {
  
 
 h1 {
-    font-size: 60px;
-    font-weight: 700px;
+    font-size: 60px !important;
+    font-weight: 700px !important;
 }
 
 p {
@@ -321,6 +321,7 @@ a:hover {
     height: 250px;
     background-color:rgb(220, 167, 177);
     padding: 10px auto 10px auto ;
+    margin-top:25px;
 }
 
 .sqlanguage {
@@ -338,7 +339,7 @@ padding-top: 0;
     height: 250px;
     background-color: rgb(238, 238, 106);
     padding: 10px auto 10px auto ;
-    margin:20px 0;
+    margin:25px 0;
 }
 
 /* java code starts here */
@@ -348,7 +349,7 @@ padding-top: 0;
     background-color: azure;
     color: #282A35;
     height: 250px;
-    margin:20px 0;
+    margin-top:25px;
 
  }
 
@@ -360,7 +361,7 @@ padding-top: 0;
     height: 250px;
     background-color: rgb(189, 237, 237);
     color: #282A35;
-     margin:20px 0;
+    margin-top:25px;
  }
 
  /* bootstrap code starts here */
@@ -370,7 +371,7 @@ padding-top: 0;
     width: 100%;
     height: 250px;
     background-color: rgb(247, 253, 253);
-    margin:20px 0;
+    margin-top:25px;
 }
 
 .blink {
@@ -402,7 +403,7 @@ padding-top: 0;
     padding: 30px;
     border-radius: 6px;
     width: 100%;
-    margin: 20px auto;
+    margin-top:20px;
    
     background-color: rgb(238, 238, 106);
     
