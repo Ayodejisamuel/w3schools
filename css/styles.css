@@ -982,6 +982,10 @@ padding-top: 0;
     margin: auto;
 }
 
+#githubicon {
+    margin:0 50px;
+}
+
 .footerparagraph {
     text-align: center;
     align-items: center ;
